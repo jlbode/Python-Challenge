@@ -11,7 +11,7 @@ Python Challenge - PyPoll
 import os
 import csv
 path = os.path.join("raw_data", "election_data_2.csv") 
-resultspath = os.path.join("raw_data", "election_results_1.csv")
+resultspath = os.path.join("raw_data", "election_results_2.csv")
 
 #Variables to track results
 totalvotes  = 0
